@@ -1,3 +1,6 @@
+# Model files
+ddpm-alzheimer-mri-128
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
