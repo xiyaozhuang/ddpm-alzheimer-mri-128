@@ -18,3 +18,7 @@ Note that the requirements file specifies an index url to make use of GPUs with 
 ## Usage
 
 To run the training algorithm run the `scripts/main.py` file.
+
+To create sample plots run the `scripts/plot.py` file after training.
+
+Note that the input samples and noisy sample images can be plotted prior to training by removing `plot_output_sample()` from `plot.py` and should not be very computationally expensive.
